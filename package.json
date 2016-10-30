@@ -1,0 +1,30 @@
+{
+  "name": "@scfe/react-native-datepicker",
+  "version": "1.0.4",
+  "description": "datepicker for react-native android and ios",
+  "author": {
+    "name": "yangyiliang",
+    "email": "yangyiliang@meituan.com"
+  },
+  "keywords": [
+    "react-native",
+    "mt-component",
+    "react-native-datepicker"
+  ],
+  "main": "index.js",
+  "examples": [
+    "example/index.ios.js",
+    "example/index.android.js"
+  ],
+  "scripts": {
+    "start": "react-native start",
+    "clean:babelrc": "find ./node_modules -name react-packager -prune -o -name '.babelrc' -print | xargs rm -f",
+    "postinstall": "npm run clean:babelrc",
+    "postversion": "git push && git push --tags"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^15.3.0",
+    "react-native": "^0.32.0"
+  }
+}
