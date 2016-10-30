@@ -1,16 +1,22 @@
 {
-  "name": "@scfe/react-native-datepicker",
-  "version": "1.0.4",
+  "name": "react-native-datepicker-panel",
+  "version": "1.0.0",
   "description": "datepicker for react-native android and ios",
   "author": {
     "name": "yangyiliang",
-    "email": "yangyiliang@meituan.com"
+    "email": "394720943@qq.com"
   },
   "keywords": [
     "react-native",
-    "mt-component",
-    "react-native-datepicker"
+    "react-native-datepicker",
+    "react-native-date"
+    "react-native-picker"
+    "react-native-datetimepicker"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yylgit/react-native-datepicker-panel.git"
+  },
   "main": "index.js",
   "examples": [
     "example/index.ios.js",

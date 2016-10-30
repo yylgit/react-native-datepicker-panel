@@ -123,6 +123,6 @@ const styles = StyleSheet.create({
 export default TestDatePicker;
 ```
 # Screenshots
-![image description](http://mss.vip.sankuai.com/v1/mss_43af2378df554a1e8a6c9294ff1bc80a/zc/d4e2156a04764afb8cedd59da84bdeb4.jpg)
-![image description](http://mss.vip.sankuai.com/v1/mss_43af2378df554a1e8a6c9294ff1bc80a/zc/75ebbed90a7248a1b0e579887a5a7f98.jpg)
-![image description](http://mss.vip.sankuai.com/v1/mss_43af2378df554a1e8a6c9294ff1bc80a/zc/1587bc7f338a4b37bef313eda57e61c8.jpg)
+![image description](https://cloud.githubusercontent.com/assets/11867564/19833964/8735f4c2-9e87-11e6-9063-9efdfd330ac6.jpg)
+![image description](http://dn-cnode.qbox.me/FjC0cy3F215aUKFlNdL1O-qEgkwY)
+![image description](http://dn-cnode.qbox.me/FoYM4HUSwMv48pdJqqZMx35XI4xG)
