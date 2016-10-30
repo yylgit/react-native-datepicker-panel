@@ -9,8 +9,8 @@
   "keywords": [
     "react-native",
     "react-native-datepicker",
-    "react-native-date"
-    "react-native-picker"
+    "react-native-date",
+    "react-native-picker",
     "react-native-datetimepicker"
   ],
   "repository": {
